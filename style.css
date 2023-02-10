@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#fa8d84;
+    margin-top: 0px;
+    color: white;
+}
+#home_photo {
+    
+    text-align: center;
+    height: 400px;
+    width: 2025px;
+}
+body {
+    text-align: center;
+    background-color: #ffa59e; 
+    color: white;
+}
+#home_list {
+    text-align: center;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+
+}
+ul {
+    list-style-type: none;
+}
+a {
+    color: white;
+}
+li {
+    margin: 10px;
+    text-transform: uppercase;
+    
+}
